@@ -1,2 +1,2 @@
 Myself Ibrahim
-this is my first git text
+this is my first git text, and this is for testing and learning git
